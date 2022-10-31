@@ -3,10 +3,10 @@
 I am just a everyday normal coder
 
 # Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=shuvam1309&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvam1309&layout=compact" /> 
-
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shuvam1309&show_icons=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvam1309&layout=compact&theme=radical" /> 
+</div>
 
 # Familiar with
 
@@ -24,3 +24,6 @@ I am just a everyday normal coder
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
+#
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
