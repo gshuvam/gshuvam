@@ -10,8 +10,8 @@ Let's connect, collaborate, and create together! Feel free to reach out for exci
 
 # Stats
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shuvam1309&show_icons=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvam1309&layout=compact&theme=radical" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gshuvam&show_icons=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gshuvam&layout=compact&theme=radical" /> 
 </div>
 
 # Familiar with
