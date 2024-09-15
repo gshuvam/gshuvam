@@ -13,7 +13,7 @@ Let's connect, collaborate, and create together! Feel free to reach out for exci
 <img height="200em" src="https://github-my-stats.vercel.app/api?username=gshuvam&show_icons=true&theme=radical" />
   &nbsp;
   &nbsp;
-<img height="200em" src="https://github-my-stats.vercel.app/api/top-langs/?username=gshuvam&layout=donut&theme=radical" /> 
+<img height="200em" src="https://github-my-stats.vercel.app/api/top-langs/?username=gshuvam&layout=donut&theme=radical&hide=css,scss" /> 
 </div>
 
 # Familiar with
