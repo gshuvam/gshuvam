@@ -1,11 +1,11 @@
-# About me
+`$ whoami`
 
-building things that (hopefully) don't break in prod.
-web · ml · mobile — I don't discriminate.
-open source contributor. occasional outdoor human.
+building things that (hopefully) don't break in prod. web · ml · mobile — I don't discriminate. open source contributor. occasional outdoor human.<br>
 currently: debugging life one commit at a time.
 
-# Stats
+
+`$ stats`
+
 <div align="left">
 <img height="200em" src="https://github-my-stats.vercel.app/api?username=gshuvam&show_icons=true&theme=radical" />
   &nbsp;
@@ -13,7 +13,8 @@ currently: debugging life one commit at a time.
 <img height="200em" src="https://github-my-stats.vercel.app/api/top-langs/?username=gshuvam&layout=donut&theme=radical&hide=css,scss" /> 
 </div>
 
-# Familiar with
+
+`$ stack`
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -23,9 +24,11 @@ currently: debugging life one commit at a time.
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<br/>
 
 
-# Reach me 
+`$ ping`
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuvam-ghosh-b3078218b/)
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
