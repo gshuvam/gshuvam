@@ -1,12 +1,9 @@
 # About me
 
-Passionate coder and problem solver, on a never-ending quest to push the boundaries of technology. 🚀✨ My mission is to create innovative solutions that make a positive impact in the world. 💡💪
-
-I love software development and thrive in diverse projects. Web development, machine learning, mobile apps—I enjoy it all. I believe in the power of collaboration and actively contribute to open-source communities. Let's build remarkable things together!
-
-When I'm not coding, you can find me exploring the great outdoors 🌲, immersing myself in a good book 📚, or indulging in my passion for photography 📷. Life is all about finding balance and seeking inspiration in the world around us.
-
-Let's connect, collaborate, and create together! Feel free to reach out for exciting opportunities or engaging discussions.
+building things that (hopefully) don't break in prod.
+web · ml · mobile — I don't discriminate.
+open source contributor. occasional outdoor human.
+currently: debugging life one commit at a time.
 
 # Stats
 <div align="left">
